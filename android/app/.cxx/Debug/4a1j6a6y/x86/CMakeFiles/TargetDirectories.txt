@@ -1,0 +1,2 @@
+C:/Users/hp/Desktop/franklin-projects/tracker-Money-app/tracker/android/app/.cxx/Debug/4a1j6a6y/x86/CMakeFiles/edit_cache.dir
+C:/Users/hp/Desktop/franklin-projects/tracker-Money-app/tracker/android/app/.cxx/Debug/4a1j6a6y/x86/CMakeFiles/rebuild_cache.dir

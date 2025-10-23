@@ -1,16 +1,21 @@
-# tracker
+Welcome Screen
+<img width="423" height="949" alt="Screenshot 2025-10-23 172410" src="https://github.com/user-attachments/assets/04ee8288-b87e-49c8-b352-0ee6ba46454d" />
 
-A new Flutter project.
+SocialLogin Screen
+<img width="419" height="950" alt="Screenshot 2025-10-23 172423" src="https://github.com/user-attachments/assets/0dbd257a-1701-47f9-8f73-b69226ad7400" />
 
-## Getting Started
+Create Account Screen
+<img width="424" height="945" alt="Screenshot 2025-10-23 172442" src="https://github.com/user-attachments/assets/0a530611-4853-4497-8fb8-5cd4a39aa822" />
 
-This project is a starting point for a Flutter application.
+Login Screen
 
-A few resources to get you started if this is your first Flutter project:
+<img width="429" height="950" alt="Screenshot 2025-10-23 172453" src="https://github.com/user-attachments/assets/17983879-5cf4-4717-b4fb-74e2c31f0cd9" />
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Home Screen
+<img width="421" height="951" alt="Screenshot 2025-10-23 172320" src="https://github.com/user-attachments/assets/19b2a8c1-2695-49be-94e0-aceab1ed5efa" />
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+
+
